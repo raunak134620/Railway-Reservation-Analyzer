@@ -64,7 +64,7 @@ def load_bookings(filename):
             )
             continue
 
-        row["Fare"] = float(fare)
+        row["Fare"] = str(fare)
         row["Status"] = row["Status"].title()
 
         if row["Status"] not in VALID_STATUSES:
