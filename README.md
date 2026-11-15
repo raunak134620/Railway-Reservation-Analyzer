@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Railway Reservation Analyzer
 
 PS No.: 69
@@ -138,3 +139,7 @@ It helps analyze train bookings, calculate confirmed ticket revenue and display 
 Project: Railway Reservation Analyzer
 PS Number: 69
 Language: Python 3
+=======
+# Railway-Reservation-Analyzer
+| Description | Railway Reservation Analyzer using Python, Pandas and Matplotlib | | Visibility | Public | | Initialize README | Leave unchecked |
+>>>>>>> 884ddf1ed03ee8da236be19462da35ff0168550e
